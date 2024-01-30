@@ -16,4 +16,4 @@ Beyond Müller's mimicry model: Perceptual maps support continental-scale conver
 
 **Title:**
 
-This is a PDF version, thus aniamtions are disabled.
+This is a PDF version, thus animations are disabled.
