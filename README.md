@@ -2,6 +2,8 @@
 
 Talk for the McGuire Center Seminar - Expanding Horizons in Lepidoptera Research
 
+January 30th 2024
+
 **Title:**
 
 Beyond Müller's mimicry model: Perceptual maps support continental-scale convergence in wing patterns of sympatric Neotropical butterflies
