@@ -14,6 +14,6 @@ Beyond Müller's mimicry model: Perceptual maps support continental-scale conver
 
 *I will present our results on the distribution of taxonomic, phylogenetic, and mimetic diversity of two flagship tribes of Neotropical butterflies, the Ithomiini (Nymphalidae: Danainae) and Heliconiini (Nymphalidae: Heliconiinae). In particular, I will address how we designed a Citizen Science project to describe perceived phenotypic variation in mimicry patterns, and tested for the unfolding to large spatial scales of Müller’s prediction for trait convergence between unpalatable species in sympatry.*
 
-**Title:**
+**Notes:**
 
 This is a PDF version, thus animations are disabled.
